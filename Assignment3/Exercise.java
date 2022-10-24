@@ -1,4 +1,4 @@
-public class Main {
+public class App {
     public static void main(String[] args) throws Exception {
 
         char [][] mdArray = {{'1','1','1'},{'1','1','1'},{'1','1','1'}, {'1', '1', '1'}};
