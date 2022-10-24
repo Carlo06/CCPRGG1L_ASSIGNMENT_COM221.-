@@ -60,6 +60,7 @@ public class Main {
             }
             
             System.out.println("");
+        
         // PATTERN 5
         int [][] TotalArray = {{1,1,1},{1,1,1},{1,1,1},{1, 1, 1}};
         int sum = 0;
